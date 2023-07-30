@@ -1,0 +1,14 @@
+ Input
+ N_0 =         500
+ N_max =        2000
+ seed =          43
+ tau_0 =        1000
+ Deltatau =   5.0000000745058060E-002
+ xmin, xmax =  -5.0000000000000000        5.0000000000000000     
+ n_b =         101
+ x_0 =   0.0000000000000000     
+ Output
+ E_0 =  0.51268987020546841     
+ std_E_R =   2.3408784180941632E-002
+ time evolution of E_R: ER_evolution.txt
+ section enclosed by the box, phi_0(x): phi_0.txt
