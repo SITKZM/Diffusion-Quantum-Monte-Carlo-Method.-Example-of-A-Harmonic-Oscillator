@@ -12,6 +12,7 @@
 
 ## 参考文献
 [1] I. Kosztin, B. Faber, and K. Schulten, American Journal of Physics 64, 633 (1996).
+
 [2] https://people.sc.fsu.edu/~jburkardt/f_src/ziggurat/ziggurat.html   Ziggurat法の関数を使わせていただきました。
 
 # English
@@ -27,4 +28,5 @@ After the simulation, you can visualize the results by running "plot.py". Plotte
 
 ## References.
 [1] I. Kosztin, B. Faber, and K. Schulten, American Journal of Physics 64, 633 (1996).
+
 [2] https://people.sc.fsu.edu/~jburkardt/f_src/ziggurat/ziggurat.html   I used the functions of the Ziggurat method.
