@@ -10,6 +10,10 @@
 
 シミュレーションが終わったら、"plot.py"を実行することで結果の可視化が行えます。プロットされるのは基準エネルギー（＝基底状態エネルギー）の時間発展と基底状態波動関数です。どちらも灰色の線が引かれますが、それらは解析解です。
 
+## 参考文献
+[1] I. Kosztin, B. Faber, and K. Schulten, American Journal of Physics 64, 633 (1996).
+[2] https://people.sc.fsu.edu/~jburkardt/f_src/ziggurat/ziggurat.html　Ziggurat法の関数を使わせていただきました。
+
 # English
 ## About this program
 Please refer to the notes on my website for a detailed explanation of this program.
@@ -20,3 +24,7 @@ The Monte Carlo simulation will start, and when it finishes, three files will be
 Examples of the three files are in the "Output_example" folder. "info.txt" contains a summary of input parameters and output data, "ER_evolution" contains the time evolution of the reference energy in the first half of the simulation, and "phi_0.txt" contains the resulting ground-state wave function. You can see what each row and column represents in the latter two files by looking at the subroutine "write_files()" in "DQMC.f90".
 
 After the simulation, you can visualize the results by running "plot.py". Plotted are the time evolution of the reference energy (= ground state energy) and the ground state wave function. Both are plotted with gray lines, but they are analytical solutions.
+
+## References.
+[1] I. Kosztin, B. Faber, and K. Schulten, American Journal of Physics 64, 633 (1996).
+[2] https://people.sc.fsu.edu/~jburkardt/f_src/ziggurat/ziggurat.html   I used the functions of the Ziggurat method.
