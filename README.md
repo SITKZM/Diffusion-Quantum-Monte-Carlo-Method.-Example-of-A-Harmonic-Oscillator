@@ -12,7 +12,7 @@
 
 ## 参考文献
 [1] I. Kosztin, B. Faber, and K. Schulten, American Journal of Physics 64, 633 (1996).
-[2] https://people.sc.fsu.edu/~jburkardt/f_src/ziggurat/ziggurat.html　Ziggurat法の関数を使わせていただきました。
+[2] https://people.sc.fsu.edu/~jburkardt/f_src/ziggurat/ziggurat.html   Ziggurat法の関数を使わせていただきました。
 
 # English
 ## About this program
